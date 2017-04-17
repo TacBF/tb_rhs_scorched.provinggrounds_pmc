@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Scorched">
+
+	<Key ID="STR_TB_missionTitle_TB_Scorched">
+		<Original>Scorched</Original>
+		<English>Scorched</English>
+		<German>Scorched</German>
+		<Italian>Scorched</Italian>
+		<Spanish>Scorched</Spanish>
+		<French>Scorched</French>
+		<Czech>Scorched</Czech>
+		<Russian>Scorched</Russian>
+		<Polish>Scorched</Polish>
+		<Hungarian>Scorched</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Scorched">
+		<Original>TacBF A&amp;S[T-10]: Scorched</Original>
+		<English>TacBF A&amp;S[T-10]: Scorched</English>
+		<German>TacBF A&amp;S[T-10]: Scorched</German>
+		<Italian>TacBF A&amp;S[T-10]: Scorched</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Scorched</Spanish>
+		<French>TacBF A&amp;S[T-10]: Scorched</French>
+		<Czech>TacBF A&amp;S[T-10]: Scorched</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Scorched</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Scorched</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Scorched</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
